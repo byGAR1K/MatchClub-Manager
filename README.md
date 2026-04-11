@@ -1,7 +1,7 @@
 # MatchClub-Manager
 
 
-🚀 Обновление MatchClub Manager v1.0.5 🚀
+🚀 Обновление MatchClub Manager v1.0.6 🚀
 Что нового:
 
 🌙 Кастомные темы (UI/UX):
